@@ -1,0 +1,12 @@
+id,name,last_name,gender,age,id_father,is_dead,was_chief,is_chief
+1,Carlos,Mendoza,H,74,-1,0,1,1
+2,Jean,Mendoza,H,44,1,0,0,0
+3,Yenny,Mendoza,M,42,1,0,0
+3,Deiter,Mendoza,H,40,1,0,0,0
+4,Ana,Mendoza,M,34,1,0,0,0
+5,Karla,Mendoza,M,30,1,0,0,0
+6,Eliza,Mendoza,M,24,1,0,0,0
+7,Ivana,Mendoza,M,2,10,0,0,0
+8,Carlos,Navarro,H,4,6,0,0,0
+10,Esteban,Navarro,H,2,0,0,0
+9,Arturo,Mendoza,H,4,2,0,0,0
