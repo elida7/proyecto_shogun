@@ -48,9 +48,11 @@ g++ -std=c++17 -Isrc src/*.cpp -o bin/proyecto_shogun
 bin/proyecto_shogun
 Salida:
 
-=== Línea de Sucesión ===
-Líder actual: Takeshi Shimura (ID: 1, Edad: 75)
-Sucesor directo: Haruto Shimura (ID: 2)
+=== Linea de Sucesion ===
+Lider actual: Jean Mendoza (ID: 2, Edad: 44)
+
+Sucesores directos:
+- Arturo Mendoza (ID: 9, Edad: 4, Genero: H)
 
 === Contribuidores ===
 1,101,Miguel Santos,45,Contador,9
